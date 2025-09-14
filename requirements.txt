@@ -1,0 +1,2 @@
+spdlog==2.0.6
+requests
